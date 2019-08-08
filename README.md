@@ -1,4 +1,3 @@
-# Bioinformatics
 
 ## Bioinformatics Algorithms (Part 1)
 
